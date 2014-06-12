@@ -11,10 +11,12 @@ this quick code can teach you how the zip format works internally
 Examples
 ========
 
+<pre>
 $ uzip zipfile.zip
 Unpacking file1.txt
 Unpacking file2.txt
 ....
+</pre>
 
 
 here, the txt files are COMPRESSED so you can't read their content, unless if the
